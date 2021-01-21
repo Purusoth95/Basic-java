@@ -1,2 +1,2 @@
-# Basic-java
+# POM
 Learn to basic java
